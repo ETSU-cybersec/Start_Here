@@ -11,6 +11,9 @@
 ## WEB)
     - Web Exploitation is focused on using cross site scripting, SQL injection, and other web based attacks to find flags by finding vulnerabilities on a website.
 
+## FORENSICS)
+    - Digging through data online to find specific info about someone, or going through old files/PCAP (wireshark) data to learn about conversations that were had.
+
 ## REVERSE)
     - Reverse Engineering is focused on breaking through insecure code to find flags. ex. breaking insecure encryption
 
