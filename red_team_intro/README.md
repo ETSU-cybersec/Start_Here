@@ -9,12 +9,15 @@
 
   ## 2- Start Reconnaissance
 
-  Tools:
-  
-      -
-      -
-      -
+  First you want to find out information about the system you are attempting to hack. This starts out with finding open ports, service versions, what operating system the /
+  computer is running, etc... This will allow you to have an idea of where to start.
+
+  For example.
 
   ## 3- Gain Initial Access
 
-  ## 
+  ## 4- Lateral Movement
+
+  ## 5- Exploitation
+
+  ## 6- Persistence
