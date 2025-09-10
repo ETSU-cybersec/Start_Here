@@ -21,3 +21,6 @@
   ## 5- Exploitation
 
   ## 6- Persistence
+
+
+# *FOR MORE INFO ABOUT TOOLS FOR RED TEAMING CHECK OUT THE REPOSITORY ETSU_TOOLS*
