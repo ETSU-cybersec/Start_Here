@@ -6,9 +6,9 @@
 ### To test whether or not it worked
     getent hosts example.com        # linux
     ping -c 1 example.com
-    # quick TCP connect test
+                # quick TCP connect test
     nc -vz 10.201.48.135 80
-    # or (if nc unavailable)
+                # or (if nc unavailable)
     telnet 10.201.48.135 80
 
 ### Now you are able to go to the site
