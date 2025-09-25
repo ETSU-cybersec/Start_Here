@@ -13,4 +13,3 @@
 
 ### Now you are able to go to the site
     http://example.com (or http://example.com/)
-
