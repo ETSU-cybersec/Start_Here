@@ -12,15 +12,17 @@
   First you want to find out information about the system you are attempting to hack. This starts out with finding open ports, service versions, what operating system the /
   computer is running, etc... This will allow you to have an idea of where to start.
 
-  For example.
+  For example...
+  
+  ## 3- Gain Initial Access / Exploitation
 
-  ## 3- Gain Initial Access
+  During recon locate vulnerable services and then research (ex. searchsploit) to find attack vector that can be leveraved/exploited to gain intial access.
 
-  ## 4- Lateral Movement
+  ## 4- Lateral Movement / priviledge escalation
 
-  ## 5- Exploitation
+  Once inside, find your permissions (Linux: sudo -l Windows: whoami /groups) tbc... 
 
-  ## 6- Persistence
+  ## 5- Persistence
 
 
 # *FOR MORE INFO ABOUT TOOLS FOR RED TEAMING CHECK OUT THE REPOSITORY ETSU_TOOLS*
