@@ -10,3 +10,16 @@
 ## CTF challenges often hide flags inside of images or audio files.
   - Often contain other images or zipped files which lead to the flag
   - Suspect files can be run through a variety of tools to detect and extract hiddden information
+
+#  Tools
+
+## Web
+  - CyberChef https://cyberchef.org/
+  - Aperisolve https://www.aperisolve.com/
+## Terminal
+  - StegHide
+      - https://steghide.sourceforge.net/documentation/manual.pdf
+  - Binwalk
+      - https://www.kali.org/tools/binwalk/
+  - ExifTool
+      -https://exiftool.org/examples.html
