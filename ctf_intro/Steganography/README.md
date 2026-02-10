@@ -22,4 +22,4 @@
   - Binwalk
       - https://www.kali.org/tools/binwalk/
   - ExifTool
-      -https://exiftool.org/examples.html
+      - https://exiftool.org/examples.html
