@@ -15,7 +15,7 @@
   - This is a directory fuzzing tool
       - Allows you to find hidden / misconfigured directories
   - Can also be used to find subdomains
-  - Cheatsheet / intro: https://gobuster.org/what-are-the-key-command-line-options-in-gobuster/
+  - Cheatsheet: https://abrictosecurity.com/gobuster-directory-enumerator-cheat-sheet/
 
 ## Hydra
   - Bruteforce password / login cracking
