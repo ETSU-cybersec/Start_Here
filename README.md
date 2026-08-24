@@ -1,9 +1,89 @@
-# Welcome to the Cyber Security Club!
-  ## This is a repository focused on teaching you the basics of our field and how to learn valuable skills to become more proficient in the realm of cyber security.
+# ETSU Cyber Club - Start Here
 
-# Directory Breakdowns
-    - 1) Start Here- description of what we do as a club, and a introduction to the different jobs in this field.
-    - 2) red_team_intro- Introduction to ethical hacking
-    - 3) blue_team_intro- Introduction to server defense 
-    - 4) ctf_intro- Introduction to Capture The Flags and tools to help with them
-    - 5) competition_intro- Introduction to how competitions go and what you need to study to be proficient
+Welcome to the ETSU Cyber Club.
+
+This repository is designed to help new members get started with cybersecurity, club resources, competitions, tools, and learning paths.
+
+If you are new to cybersecurity, start with the Getting Started guide and work through the fundamentals before choosing an area to specialize in.
+
+## Getting Started
+
+If this is your first time here:
+
+1. Read [Getting Started](GETTING-STARTED.md).
+2. Set up your cybersecurity environment.
+3. Learn the basic Linux, networking, programming, and cybersecurity fundamentals.
+4. Choose a learning path.
+5. Complete beginner labs and challenges.
+6. Attend club meetings and workshops.
+7. Participate in competitions.
+
+## Guides
+
+- [Getting Started](GETTING-STARTED.md)
+- [Learning Paths](LEARNING-PATHS.md)
+- [Competitions](COMPETITIONS.md)
+- [Tools](TOOLS.md)
+- [Contributing](CONTRIBUTING.md)
+
+## Fundamentals
+
+- [Linux](resources/linux.md)
+- [Networking](resources/networking.md)
+- [Programming](resources/programming.md)
+- [Cybersecurity](resources/cybersecurity.md)
+
+## Competitions
+
+The Cyber Club participates in several cybersecurity competitions and CTFs.
+
+Examples include:
+
+- National Cyber League (NCL)
+- Collegiate Cyber Defense Competition (CCDC)
+- Collegiate Penetration Testing Competition (CPTC)
+- CyberForce Competition
+- MITRE Embedded Capture the Flag (eCTF)
+- Capture the Flag competitions
+
+See [Competitions](COMPETITIONS.md) for more information.
+
+## Learning
+
+Members are encouraged to learn at their own pace and explore different areas of cybersecurity.
+
+Common areas include:
+
+- Penetration Testing
+- Red Teaming
+- Blue Teaming
+- SOC Analysis
+- Digital Forensics
+- Incident Response
+- Reverse Engineering
+- Malware Analysis
+- Cryptography
+- Cloud Security
+- Embedded Security
+- Security Engineering
+
+See [Learning Paths](LEARNING-PATHS.md) to find a path that interests you.
+
+## Club Resources
+
+Additional Cyber Club repositories contain:
+
+- Learning material
+- CTF resources
+- Cybersecurity tools
+- Environment setup scripts
+- Competition resources
+- Club projects and research
+
+## Questions
+
+You are not expected to know everything before joining.
+
+Ask questions, attend meetings, participate in workshops, and work with other members.
+
+The best way to learn cybersecurity is by practicing.
