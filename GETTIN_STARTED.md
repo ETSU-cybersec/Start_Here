@@ -32,11 +32,7 @@ Additional platforms may be introduced during meetings and competitions.
 
 For Windows users, the recommended starting environment is:
 
-Windows 11
-
-to
-
-WSL2
+Windows 11 to WSL
 
 More advanced members may also want to use:
 
