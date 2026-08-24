@@ -24,14 +24,6 @@ If this is your first time here:
 - [Learning Paths](LEARNING-PATHS.md)
 - [Competitions](COMPETITIONS.md)
 - [Tools](TOOLS.md)
-- [Contributing](CONTRIBUTING.md)
-
-## Fundamentals
-
-- [Linux](resources/linux.md)
-- [Networking](resources/networking.md)
-- [Programming](resources/programming.md)
-- [Cybersecurity](resources/cybersecurity.md)
 
 ## Competitions
 
