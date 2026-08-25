@@ -1,8 +1,8 @@
 # Ethics and Rules
 
-Cybersecurity gives us the ability to understand, test, and sometimes break the systems around us. With that knowledge comes responsibility.
+Cybersecurity gives us the ability to understand, test, and sometimes break the systems around us. With great power, comes great responsibility...
 
-By participating in Cyber Bucs activities, labs, competitions, projects, or other club resources, you are expected to follow these rules and use what you learn responsibly.
+Anyway....By participating in Cyber Bucs activities, labs, competitions, projects, or other club resources, you are expected to follow these rules and use what you learn responsibly.
 
 ## The Cyber Bucs Pledge
 
